@@ -1,0 +1,10 @@
+primeiramente voce vai baixar o chromedriver vou deixar o link a baixo do mais recente
+https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.4/win64/chromedriver-win64.zip
+depois voce vai extrair e criar uma pasta chamada
+chromium-1117
+dentro de .local-browsers
+depois caso nao tenha vai criar outra pasta chamada chrome-win
+quando voce baixar o nome vai ser talvez chrome-win64 voce so tira o 64 e joga dentro da pasta
+chromium-1117
+ai pronto ta feito vai ficar assim o caminho
+pasta_com_executavel\_internal\playwright\driver\package\.local-browsers\chromium-1117\chrome-win
