@@ -19,13 +19,13 @@ EMAIL
 SENHA
 SERIE FISCAL
 O modelo será 65 por padrão.
-
+```
 3. Criar um executável
 Para criar um executável do script, utilize o pyinstaller com o comando abaixo:
 
-sh
-Copiar código
+```sh
 pyinstaller main.py --icon=icon.ico
+```
 4. Configurar os drivers
 Após gerar o executável, siga estas etapas:
 
@@ -45,8 +45,3 @@ Licença
 Este projeto está licenciado sob a Licença XYZ. Consulte o arquivo LICENSE para obter mais informações.
 
 
-
-
-
-
-```
