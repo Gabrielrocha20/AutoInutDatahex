@@ -12,21 +12,22 @@ Para criar e ativar um ambiente virtual, execute os seguintes comandos no termin
 python -m venv venv
 venv/Scripts/activate
 pip install -r requirements.txt
-2. Executar o arquivo main.py
+```
+### 2. Executar o arquivo main.py
 Após configurar o ambiente, rode o arquivo main.py. Ele solicitará as seguintes informações:
 
 EMAIL
 SENHA
 SERIE FISCAL
 O modelo será 65 por padrão.
-```
-3. Criar um executável
+
+### 3. Criar um executável
 Para criar um executável do script, utilize o pyinstaller com o comando abaixo:
 
 ```sh
 pyinstaller main.py --icon=icon.ico
 ```
-4. Configurar os drivers
+### 4. Configurar os drivers
 Após gerar o executável, siga estas etapas:
 
 Vá até a pasta DRIVERS no repositório.
@@ -35,7 +36,7 @@ Siga este caminho: nomedapasta\_internal\playwright\driver\package\.
 Copie a pasta .local-browsers e cole-a dentro deste diretório.
 Caso o driver seja antigo, substitua o driver dentro da pasta com a versão mais recente.
 
-5. Executar o executável
+### 5. Executar o executável
 Depois de configurar os drivers, você pode abrir o executável que ele será executado corretamente.
 
 Contribuição
