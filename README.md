@@ -1,6 +1,3 @@
-markdown
-Copiar código
-
 # Projeto de Automação
 
 Este projeto é uma automação que requer a execução de um script Python. Siga as instruções abaixo para configurar e executar o projeto.
@@ -47,10 +44,6 @@ Sinta-se à vontade para abrir issues ou pull requests se desejar contribuir com
 Licença
 Este projeto está licenciado sob a Licença XYZ. Consulte o arquivo LICENSE para obter mais informações.
 
-perl
-Copiar código
-
-Basta copiar o texto acima e colá-lo no seu arquivo `README.md`. Se precisar de mais alguma coisa, estou à disposição!
 
 
 
