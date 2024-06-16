@@ -1,5 +1,5 @@
 primeiramente voce vai baixar o chromedriver vou deixar o link a baixo do mais recente
-https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.4/win64/chromedriver-win64.zip
+https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.61/win64/chrome-win64.zip
 depois voce vai extrair e criar uma pasta chamada
 chromium-1117
 dentro de .local-browsers
